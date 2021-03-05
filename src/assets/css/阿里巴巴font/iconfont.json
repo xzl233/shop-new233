@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "77031",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "f00eb",
+      "unicode_decimal": 983275
+    },
+    {
+      "icon_id": "5756005",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "8288894",
+      "name": "星星",
+      "font_class": "xingxing",
+      "unicode": "e859",
+      "unicode_decimal": 59481
+    },
+    {
+      "icon_id": "8289033",
+      "name": "星星",
+      "font_class": "xingxing1",
+      "unicode": "e870",
+      "unicode_decimal": 59504
+    },
+    {
+      "icon_id": "9371343",
+      "name": "星星",
+      "font_class": "xingxing2",
+      "unicode": "e762",
+      "unicode_decimal": 59234
+    }
+  ]
+}
