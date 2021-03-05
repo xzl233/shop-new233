@@ -1,7 +1,7 @@
 module.exports = {
   outputDir: 'dist',
   assetsDir:'static',
-  publicPath:'./',
+ 
   // publicPath:'http://www.xzl233.cn',
   css: {
     loaderOptions: {
